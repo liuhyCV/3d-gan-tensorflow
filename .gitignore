@@ -1,0 +1,7 @@
+#ignore large files and folder
+
+*.zip
+*.mat
+checkpoints/
+logs/
+sample_generator/
